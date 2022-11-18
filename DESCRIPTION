@@ -1,7 +1,7 @@
 Package: qfwr
 Type: Package
 Title: Interactive Tutorials for "Quantitative Finance with R"
-Version: 0.1.02
+Version: 0.1.03
 Author: Yongyi Zeng
 Maintainer: Yongyi Zeng <zzyy@xmu.edu.cn>
 Description: Interactive tutorials for my course "Quantitative Finance 
@@ -37,4 +37,4 @@ Remotes:
 Depends:
     R (>= 3.6)
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.2.1
+RoxygenNote: 7.2.2
